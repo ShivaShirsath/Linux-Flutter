@@ -2,8 +2,7 @@
 
 ## Install Flutter & Dart using Git
 ```bash
-cd ~
-git clone https://github.com/flutter/flutter.git -b stable
+cd ~ && git clone https://github.com/flutter/flutter.git -b stable
 ```
 ## Launch in startUp
 ```bash
